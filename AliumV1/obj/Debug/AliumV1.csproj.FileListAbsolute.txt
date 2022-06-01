@@ -1,0 +1,10 @@
+D:\C#Projects\AliumV1\obj\Debug\AliumV1.csproj.AssemblyReference.cache
+D:\C#Projects\AliumV1\obj\Debug\AliumV1.csproj.SuggestedBindingRedirects.cache
+D:\C#Projects\AliumV1\obj\Debug\AliumV1.Properties.Resources.resources
+D:\C#Projects\AliumV1\obj\Debug\AliumV1.csproj.GenerateResource.cache
+D:\C#Projects\AliumV1\obj\Debug\AliumV1.csproj.CoreCompileInputs.cache
+D:\C#Projects\AliumV1\bin\Debug\AliumV1.exe.config
+D:\C#Projects\AliumV1\bin\Debug\AliumV1.exe
+D:\C#Projects\AliumV1\bin\Debug\AliumV1.pdb
+D:\C#Projects\AliumV1\obj\Debug\AliumV1.exe
+D:\C#Projects\AliumV1\obj\Debug\AliumV1.pdb
