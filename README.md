@@ -5,4 +5,4 @@ This virus is written by me. Please don't just copy and paste the source code as
 
 This is the first version of the virus, which means there will be other versions of the same virus with different payloads or some improvements in the future.
 
-Note: You must install .NET Framework version 4 before executing this virus. Otherwise, the virus won't work!
+Note: You must install .NET Framework version 4 before executing this virus, otherwise the virus won't run!
